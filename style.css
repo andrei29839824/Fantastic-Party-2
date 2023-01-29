@@ -1,0 +1,19 @@
+header{
+border-color: forestgreen;
+}
+header img{
+    ::backdrop
+ margin: 12px;
+}
+body {
+    font-family: sans-serif;
+}
+nav {
+   background-color: rgb(11, 179, 221);
+}
+footer{
+background-color: gray;
+}
+img src{
+    background-color: yellow;
+}
